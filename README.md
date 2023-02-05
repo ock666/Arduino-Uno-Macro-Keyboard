@@ -121,8 +121,6 @@ Oskar Petersen - [@ock666](https://github.com/ock666) - koreaserpents.xyz
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
-
  - [Eward Hage](https://www.instructables.com/How-to-Make-a-Arduino-HID-Keyboard/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [FortStudios](https://www.instructables.com/Arduino-UnoLeonardo-Keyboard-Macro-Box/)
